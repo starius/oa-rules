@@ -1,0 +1,20 @@
+syntax: glob
+
+output
+*.swp
+*.log
+*.aux
+*.pdf
+*.eps
+*.out
+*.toc
+*.nav
+*.snm
+
+*.orig
+*.org
+
+*.nlo
+*.nls
+*.ilg
+
