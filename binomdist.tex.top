@@ -1,0 +1,8 @@
+\documentclass[12pt]{report}
+\usepackage{geometry}
+
+\geometry{margin=1cm}
+
+\begin{document}
+\thispagestyle{empty}
+\begin{verbatim}

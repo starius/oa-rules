@@ -18,3 +18,5 @@ output
 *.nls
 *.ilg
 
+binomdist.tex
+
